@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/transport-route-planner/"
+  base: "/Transport_Route_Planner/"
 });
